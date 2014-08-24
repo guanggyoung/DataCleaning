@@ -2,7 +2,7 @@ All the work needed for the data cleaning and tidy data output is described in t
 
 1. Preparation of raw data:
 
-Download the data file provided (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+Download the data file provided(https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 Unzip the download data file then you would get a folder named "UCI HAR Dataset". Set this folder as
 the working directory in R using the command " setwd("some parent folder/UCI HAR Dataset") ".
 
