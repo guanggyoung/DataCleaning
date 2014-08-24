@@ -1,7 +1,7 @@
 ################# Code to do data cleaning #############
 
-# First, download and unzip the data. Set the directory 
-# containing the dataset as working directory.
+# First, download and unzip the data. Set the unzipped folder 
+# containing the datasets as working directory.
 
 
 #################### Step 1. Merge the data ################
