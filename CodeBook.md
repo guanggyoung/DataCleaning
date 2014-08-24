@@ -7,8 +7,8 @@ Unzip the download data file then you would get a folder named "UCI HAR Dataset"
 the working directory in R using the command " setwd("some parent folder/UCI HAR Dataset") ".
 
 2. Run the R code "run_analysis.R" provided in this repo. Then you will get the tidy dataset outputed in
-the same folder "UCI HAR Dataset". The output file is named "run_analysis_output.txt" which is also provided
-in this repo. This file using comma as separator for different results which means it is actually a .CSV file. You could use "read.csv("run_analysis_output.txt",header=TRUE)" in R to import this file if needed.
+the same folder "UCI HAR Dataset". The output file is named "run_analysis_output.txt" which is provided
+in the class project. This file using comma as separator for different results which means it is actually a .CSV file. You could use "read.csv("run_analysis_output.txt",header=TRUE)" in R to import this file if needed.
 
 3. Explanation of the output file "run_analysis_output.txt"
 
